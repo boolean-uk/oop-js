@@ -10,7 +10,7 @@
 ### To run tests
 
 ```sh
-$ node specRunner.js
+$ npx jasmine
 # or
 $ npm test
 ```
@@ -19,7 +19,7 @@ $ npm test
 
 ```sh
 # eg: linting src code
-$ npx eslint src
+$ npx eslint src --fix
 ```
 
 

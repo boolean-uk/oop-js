@@ -4,7 +4,7 @@
   "description": "> a loosely coupled system is one in which each of its components has, or makes use of, little or no knowledge of the definitions of other separate components.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jasmine"
   },
   "author": "",
   "license": "ISC",
