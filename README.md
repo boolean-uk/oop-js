@@ -1,5 +1,15 @@
 # Object-Oriented Programming in JavaScript
 
+### Quickstart
+1. Clone this repository to your local machine
+```sh
+$ git clone git@github.com:boolean-uk/oop-js.git && cd oop-js
+```
+2. Fetch and merge recent changes
+```sh
+$ git pull origin main
+```
+
 ### Introduction
 
 #### Procedural Architecture
@@ -32,9 +42,9 @@ For now, remember how we’ve gone from one big messy network to a number of sma
 
 ### Concepts
 Many of these concepts are not solely the domain of OOP. In fact, in this list only Inheritance and Polymorphism arguably are OOP-only features.
+- [Encapsulation](./encapsulation)
 - [Cohesion](./cohesion)
 - [Coupling](./coupling)
-- [Encapsulation](./encapsulation)
 - [Abstraction]()
 - [Inheritance]()
 - [Polymorphism]()

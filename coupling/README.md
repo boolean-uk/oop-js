@@ -19,7 +19,7 @@ $ npm test
 
 ```sh
 # eg: linting src code
-$ npx eslint src --fix
+$ npx eslint src --fix  
 ```
 
 
